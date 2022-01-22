@@ -1,6 +1,7 @@
 # Exercice cours OpenClassrooms - Créer une application complète en React. 
 
-Pour lancer l'application : npm start 
+Pour lancer l'application : yarn start 
+Lancer l'API : Se placer dans le dossier backend : yarn start (localhost: 8000) 
 L'application est lancée à l'adresse : http://localhost:3000/
 
 Construction d'une Single Page Application robuste qui intègre React Router. 
